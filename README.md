@@ -1,1 +1,3 @@
-# Segundo_Parcial_Programacion_II
+Segundo Parcial Programación II
+
+Por: Pio Acosta Abasto
